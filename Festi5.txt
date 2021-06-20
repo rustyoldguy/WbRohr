@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/festi.cpp.o ./Debug/menuefrage.cpp.o ./Debug/menues.cpp.o
